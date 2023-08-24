@@ -28,6 +28,11 @@
     display: none;
     position: absolute;
     top: 100%;
+    width: 53vw;
+}
+
+.container__botao {
+    display: none;
 }
 
 .container__botao:checked ~ .lista__menu {
@@ -42,4 +47,16 @@
 
 .lista__menu__titulo {
     color: var(--laranja);
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.lista__menu__link {
+    text-decoration: none;
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 1rem;
+    font-weight: 400;
 }
