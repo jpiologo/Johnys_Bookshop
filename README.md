@@ -5,16 +5,16 @@ Abaixo estão algumas das telas para sua visualização.
 
 Veja meu projeto completo aqui: https://johnysbookshop.vercel.app
 
-### Desktop Resolution 1728px
+### Desktop Resolution:
 ![image](https://github.com/jpiologo/Johnys_Bookshop/assets/122281207/4a57666e-2ea7-4382-9657-dfd90e5ac7a6)
 
 
 
-### Tablets Resolution 1024px
+### Tablet Resolution:
 ![image](https://github.com/jpiologo/Johnys_Bookshop/assets/122281207/9d8893dd-de18-4b37-8000-c542e54a8949)
 
 
-### Mobile Resolution
+### Mobile Resolution:
 ![image](https://github.com/jpiologo/Johnys_Bookshop/assets/122281207/317eab9f-a7f1-48e6-8de9-3e78efbb9b0c)
 
 
