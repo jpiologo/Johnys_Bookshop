@@ -9,10 +9,12 @@ Abaixo estão algumas das telas para sua visualização.
 
 
 ### Tablets Resolution 1024px
-![image](https://github.com/jpiologo/Alura_Books/assets/122281207/4ba273c2-723e-45d5-afd8-1deb980a753e)
+![image](https://github.com/jpiologo/Johnys_Bookshop/assets/122281207/9d8893dd-de18-4b37-8000-c542e54a8949)
+
 
 ### Mobile Resolution
-![image](https://github.com/jpiologo/Alura_Books/assets/122281207/63f5d71e-c1c6-4318-a4ab-d4da8ea58af6)
+![image](https://github.com/jpiologo/Johnys_Bookshop/assets/122281207/317eab9f-a7f1-48e6-8de9-3e78efbb9b0c)
+
 
 
 ## Ferramentas utilizadas:
