@@ -29,6 +29,11 @@
     font-weight: 700;
 }
 
+.topicos_link:hover {
+    color: var(--laranja);
+    background: var(--branco);
+}
+
 @media screen and (min-width: 1024px){
     .topicos {
         padding: 2em 8em;
@@ -44,5 +49,11 @@
 
     .topicos_link {
         font-size: 24px;
+    }
+}
+
+@media screen and (min-width: 1728px){
+    .topicos {
+        padding: 5rem;
     }
 }
