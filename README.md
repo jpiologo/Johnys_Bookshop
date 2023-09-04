@@ -3,7 +3,7 @@
 Olá, bem vindo ao meu projeto de website responsivo com mobile first!
 Abaixo estão algumas das telas para sua visualização.
 
-### Veja meu projeto completo aqui: https://johnysbookshop.vercel.app
+Veja meu projeto completo aqui: https://johnysbookshop.vercel.app
 
 ### Desktop Resolution 1728px
 ![image](https://github.com/jpiologo/Johnys_Bookshop/assets/122281207/4a57666e-2ea7-4382-9657-dfd90e5ac7a6)
